@@ -52,7 +52,7 @@ Civilisation/
 
 1. README.md
 
-```markdown
+
 # Civilisation
 ### GitDigital Products — Civilisation
 
@@ -999,7 +999,7 @@ flowchart TD
 
 13. docs/WHITEPAPER.md
 
-```markdown
+
 # Civilisation — Whitepaper
 
 **Author:** Rickcreator1987
@@ -1142,7 +1142,7 @@ Civilisation is a bet that privacy and compliance are not opposites — they are
 
 14. docs/INTEGRATION_GUIDE.md
 
-```markdown
+
 # Integration Guide
 
 > Integrating **Civilisation** into your dApp.
@@ -1225,7 +1225,7 @@ CIVILISATION_RPC_URL=
 
 15. docs/ROADMAP.md
 
-```markdown
+
 # Roadmap
 
 ```mermaid
@@ -1285,7 +1285,7 @@ timeline
 
 16. docs/DIAGRAMS.md
 
-```markdown
+
 # Diagrams Index
 
 All Mermaid diagrams used across the Civilisation project.
@@ -1317,7 +1317,7 @@ All Mermaid diagrams used across the Civilisation project.
 
 17. CONTRIBUTING.md
 
-```markdown
+
 # Contributing to Civilisation
 
 Thanks for your interest! Authored and maintained by **Rickcreator1987**.
@@ -1380,7 +1380,7 @@ Use the issue templates. Security issues → see SECURITY.md.
 
 ## 18. `CODE_OF_CONDUCT.md`
 
-```markdown
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -1414,7 +1414,7 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 19. SECURITY.md
 
-```markdown
+
 # Security Policy
 
 ## Supported Versions
@@ -1464,7 +1464,7 @@ Out of scope:
 
 20. CHANGELOG.md
 
-```markdown
+
 # Changelog
 
 All notable changes to Civilisation are documented here.
@@ -1775,7 +1775,7 @@ git push origin main
 
 📄 README.md (Full Upgraded Version)
 
-```markdown
+
 # Civilisation
 ### GitDigital Products — Civilisation
 
